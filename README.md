@@ -23,7 +23,7 @@
 
 <h3 align="left">My interests :</h3>
 <p align="left">
-  I am mostly interested in Machine Learning applications 
+  I am mostly interested in Machine Learning applications.
   I am interested in the use of GAN in medical imagery and am currently working on a GAN able to style transfer from MRI to CT.
 </p> 
    
